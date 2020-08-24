@@ -5,7 +5,7 @@ It is only for profolio purpose.
 **Warning: Please do respect the Honor Code. You should submit your own work, and I will not take any responsibility
 if you choose to make violation.**
 
-# Component
+## Component
 This repo is a good use for practicing common data structures and algorithms in Java. The topics covered in this repo are:
 
 * ArrayList
